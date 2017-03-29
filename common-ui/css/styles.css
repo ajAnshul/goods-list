@@ -1,0 +1,14 @@
+span{
+  font-weight: bold;
+  padding-right: 42px;
+}
+p{
+  font-weight: bold;
+  margin: 0px;
+}
+th,td{
+  width: 80px;
+}
+#app{
+  padding: 5px;
+}
